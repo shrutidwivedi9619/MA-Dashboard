@@ -157,7 +157,7 @@ The dataset used in this project was obtained from **Kaggle**.
 
 11.Screenshots/Demos
 
-Show  what the dashboard looks like. - ![Alt text](https://github.com/shrutidwivedi9619/MA-Dashboard/blob/main/Movie%20Analysis%20Dashboard.png)
+Show  what the dashboard looks like. 
 Example= ![Dashboard Preview](https://github.com/shrutidwivedi9619/MA-Dashboard/blob/main/Movie%20Analysis%20Dashboard.png)
 Example= ![Dashboard Preview](https://github.com/shrutidwivedi9619/MA-Dashboard/blob/main/Audience%20Analysis%20Dashboard.png)
 
